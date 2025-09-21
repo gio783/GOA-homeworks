@@ -50,4 +50,4 @@ unique_ids = set(ids)
 if len(unique_ids) < len(ids):
     print("არის განმეორებული ID")
 else:
-    print("ყველა ID უნიკალურია")
+    print("ყველა ID უნიკალურია") 
